@@ -2,6 +2,8 @@
 ## Title
 > **RAID: Robust and Interpretable Daily Peak Load Forecasting via Multiple Deep Neural Networks and Shapley Values**  
 > - 2022년 학부 수업 프로젝트 (학부 3학년)
+> - 🌍 International Journal 🌍
+> - 학술지 구분 : SCIE
 > - Published : 2023.04.20
 
 ## Abstract
